@@ -1,0 +1,32 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pull_from_client_to_dev": "ts-node-dev pull.ts --client --branch",
+    "pull_from_dev_to_dev": "ts-node-dev pull.ts --dev --branch",
+    "commit_push_from_dev_to_client": "ts-node-dev push.ts --client --message",
+    "commit_push_from_client_to_dev": "ts-node-dev push.ts --dev --message"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^10.0.0",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.36.0",
+    "fs": "^0.0.1-security",
+    "typescript": "^4.9.5",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^5.54.1",
+    "eslint-config-prettier": "^8.7.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "nodemon": "^2.0.21",
+    "prettier": "^2.8.4",
+    "ts-node-dev": "^2.0.0"
+  }
+}

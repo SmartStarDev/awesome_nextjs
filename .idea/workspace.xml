@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b461feb-2795-4fee-b7d4-861c58ebf482" name="Changes" comment="" />
+    <list default="true" id="5b461feb-2795-4fee-b7d4-861c58ebf482" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/test1 - Copy (2).txt" beforeDir="false" afterPath="$PROJECT_DIR$/test1 - Copy (2).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1 - Copy (3).txt" beforeDir="false" afterPath="$PROJECT_DIR$/test1 - Copy (3).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1 - Copy (4).txt" beforeDir="false" afterPath="$PROJECT_DIR$/test1 - Copy (4).txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

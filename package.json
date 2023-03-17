@@ -1,7 +1,6 @@
 {
   "name": "script",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.0",: "",
   "main": "index.js",
   "scripts": {
     "pull_from_client_to_dev": "ts-node-dev pull.ts --client --branch",
